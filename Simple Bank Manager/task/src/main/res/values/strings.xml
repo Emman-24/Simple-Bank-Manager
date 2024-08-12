@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Simple Bank Manager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="username">username</string>
+    <string name="password">Password</string>
+    <string name="log_in">log in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="view_balance">view balance</string>
+    <string name="transfer_funds">transfer funds</string>
+    <string name="calculate_exchange">calculate exchange</string>
+    <string name="pay_bills">pay bills</string>
+    <string name="balance">Balance:</string>
+    <string name="balance_text">$%1$s</string>
+    <string name="account_number">Account number</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="transfer">Transfer</string>
+    <string name="convert_from">convert from</string>
+    <string name="convert_to">convert to</string>
+    <string-array name="exchange_rates">
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>USD</item>
+    </string-array>
+</resources>
